@@ -4710,19 +4710,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ayber\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayber\\KOD\\GitHub\\OtelRezervasyon\\HotelReservationApp\\HotelReservationApp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\OtelRezervasyon\\HotelReservationApp\\HotelReservationApp.csproj",
       "projectName": "HotelReservationApp",
-      "projectPath": "C:\\Users\\ayber\\KOD\\GitHub\\OtelRezervasyon\\HotelReservationApp\\HotelReservationApp.csproj",
-      "packagesPath": "C:\\Users\\ayber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayber\\KOD\\GitHub\\OtelRezervasyon\\HotelReservationApp\\obj\\",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\OtelRezervasyon\\HotelReservationApp\\HotelReservationApp.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\OtelRezervasyon\\HotelReservationApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ayber\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
