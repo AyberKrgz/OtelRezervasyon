@@ -1,0 +1,29 @@
+@model IEnumerable<HotelReservationApp.Models.Hotel>
+
+@{
+    ViewData["Title"] = "Hotel List";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Location</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hotel in Model)
+        {
+            <tr>
+                <td>@hotel.Name</td>
+                <td>@hotel.Location</td>
+                <td>
+                    <a href="@Url.Action("Details", "Hotel", new { id = hotel.Id })">View Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

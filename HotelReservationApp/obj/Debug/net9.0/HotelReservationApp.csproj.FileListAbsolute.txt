@@ -1,0 +1,9 @@
+C:\Users\ayber\KOD\GitHub\OtelRezervasyon\HotelReservationApp\obj\Debug\net9.0\HotelReservationApp.csproj.AssemblyReference.cache
+C:\Users\ayber\KOD\GitHub\OtelRezervasyon\HotelReservationApp\obj\Debug\net9.0\HotelReservationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\KOD\GitHub\OtelRezervasyon\HotelReservationApp\obj\Debug\net9.0\HotelReservationApp.AssemblyInfoInputs.cache
+C:\Users\ayber\KOD\GitHub\OtelRezervasyon\HotelReservationApp\obj\Debug\net9.0\HotelReservationApp.AssemblyInfo.cs
+C:\Users\ayber\KOD\GitHub\OtelRezervasyon\HotelReservationApp\obj\Debug\net9.0\HotelReservationApp.csproj.CoreCompileInputs.cache
+C:\Users\ayber\KOD\GitHub\OtelRezervasyon\HotelReservationApp\obj\Debug\net9.0\HotelReservationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayber\KOD\GitHub\OtelRezervasyon\HotelReservationApp\obj\Debug\net9.0\HotelReservationApp.RazorAssemblyInfo.cache
+C:\Users\ayber\KOD\GitHub\OtelRezervasyon\HotelReservationApp\obj\Debug\net9.0\HotelReservationApp.RazorAssemblyInfo.cs
+C:\Users\ayber\KOD\GitHub\OtelRezervasyon\HotelReservationApp\obj\Debug\net9.0\HotelReservationApp.sourcelink.json
