@@ -1,5 +1,6 @@
-using HotelReservationApp.Models;
 using Microsoft.EntityFrameworkCore;
+using HotelReservationApp.Data; // ApplicationDbContext'in bulunduğu namespace
+using HotelReservationApp.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
