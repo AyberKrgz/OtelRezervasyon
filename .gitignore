@@ -1,32 +1,43 @@
-# Cache files
+# Visual Studio Derleme Dosyaları
+bin/
+obj/
+
+# Visual Studio Cache ve Otomatik Oluşturulan Dosyalar
 *.cache
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.AssemblyReference.cache
+*.assets.cache
+*.editorconfig
+*.GeneratedMSBuildEditorConfig.editorconfig
 
-# Cache directories
-.cache/
-
-# General IDE files
-.idea/
+# IDE Ayarları (VSCode, Rider, IntelliJ, vb.)
 .vscode/
+.idea/
 .settings/
 
-# Compiled files
-*.class
-*.exe
-*.dll
+# Visual Studio Ayarları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-# Logs
-*.log
+# Visual Studio Otomatik Yedekleme
+Backup*/
+UpgradeLog*.htm
+_UpgradeReport_Files/
 
-# Node modules (if using Node.js)
+# Paketler ve Bağımlılıklar
+packages/
 node_modules/
 
-# Python cache files
-__pycache__/
-*.pyc
+# Log dosyaları
+*.log
 
-# System files
+# İşletim Sistemi Kalıntıları
 .DS_Store
 Thumbs.db
 
-HotelReservationApp.AssemblyInfo.cs
-HotelReservationApp.AssemblyInfoInputs.cache
+# Python Derleme Artıkları (varsa)
+_pycache_/
+*.pyc
