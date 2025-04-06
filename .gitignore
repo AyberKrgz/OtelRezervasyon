@@ -41,3 +41,8 @@ Thumbs.db
 # Python Derleme Artıkları (varsa)
 _pycache_/
 *.pyc
+HotelReservationApp/obj/Debug/net9.0/HotelReservationApp.AssemblyInfo.cs
+HotelReservationApp/obj/Debug/net9.0/HotelReservationApp.AssemblyInfoInputs.cache
+HotelReservationApp/obj/Debug/net9.0/HotelReservationApp.assets.cache
+HotelReservationApp/obj/Debug/net9.0/HotelReservationApp.csproj.AssemblyReference.cache
+HotelReservationApp/obj/Debug/net9.0/HotelReservationApp.GeneratedMSBuildEditorConfig.editorconfig
